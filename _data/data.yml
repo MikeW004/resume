@@ -20,7 +20,7 @@ sidebar:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: linkedin.com/in/michael-wolde-340984431
   github: jekyll
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: pdf-länk med svensk version på g
 
   languages:
     title: Languages
@@ -132,6 +132,15 @@ recommendations:
     role: Principal at the compulsory school
     recommendation: |
       Michael is a super employee!
+
+  title: Recommendations
+  list:
+  - person: Katharina
+    email: perezyareli@example.com
+    phone: 076 120 44 51
+    role: Expedition in Nälstaskolan
+    recommendation: |
+      Always great feedback from his colleges, where ever he was deployed!
 
 skills:
   title: Skills &amp; Proficiency
